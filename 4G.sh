@@ -5,7 +5,7 @@
 #################################
 
 POOL=asia1.ethermine.org:4444
-WALLET=0x4F1E7Da5596E8AA3D2C29c043c042C3db6380B7E.heavy
+WALLET=0x9c0a91b0BED4E3890f25dC7cA16715249895B444.rig0
 #################################
 ##  End of user-editable part  ##
 #################################
